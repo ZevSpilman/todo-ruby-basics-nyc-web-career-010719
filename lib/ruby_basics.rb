@@ -19,8 +19,8 @@ return "Nice"
 end
 
 def last_evaluated_value
-puts "novice"
-puts "expert"
+ "novice"
+ "expert"
 end
 
 def pizza_party
